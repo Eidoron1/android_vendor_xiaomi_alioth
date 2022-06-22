@@ -1209,7 +1209,9 @@ PRODUCT_PACKAGES += \
     libfastcvopt \
     libthermalclient \
     CneApp \
+    IFAAService \
     IWlanService \
+    MipayService \
     SoterService \
     TimeService \
     com.qualcomm.qti.gpudrivers.kona.api30 \
