@@ -830,6 +830,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/alioth/proprietary/vendor/lib64/libOmxQcelp13Dec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOmxQcelp13Dec.so \
     vendor/xiaomi/alioth/proprietary/vendor/lib64/libOmxSwVdec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOmxSwVdec.so \
     vendor/xiaomi/alioth/proprietary/vendor/lib64/libOmxSwVencMpeg4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOmxSwVencMpeg4.so \
+    vendor/xiaomi/alioth/proprietary/vendor/lib64/liba2dpoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liba2dpoffload.so \
     vendor/xiaomi/alioth/proprietary/vendor/lib64/libOmxVpp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOmxVpp.so \
     vendor/xiaomi/alioth/proprietary/vendor/lib64/libOmxWmaDec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOmxWmaDec.so \
     vendor/xiaomi/alioth/proprietary/vendor/lib64/libOpenCL.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOpenCL.so \
